@@ -5,5 +5,5 @@ float y=3.0;
 if(x==y)
 printf("\nx and y are equal");
 else
-printf("\n and y are not equal");
+printf("\nx and y are not equal");
 return 0;} 

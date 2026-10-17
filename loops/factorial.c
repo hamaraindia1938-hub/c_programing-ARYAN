@@ -9,6 +9,6 @@ int main(){
         product = product*i;
     
  
-  printf("the factorial of %d is : %d\n",i,product);}
-// printf("%d * %d=%d\n ",n,i,product);}
+printf("the factorial of %d is : %d\n",i,product);}
+// printf("%d",product);
  return 0;}
